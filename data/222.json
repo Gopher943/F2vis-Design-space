@@ -1,0 +1,20 @@
+[
+    {
+      "id": "uskov2020data",
+      "title": "Data Cleaning and Data visualization Systems for Learning Analytics",
+      "year": 5,
+      "categories": ["chart visualization","instructor","exploration","high-dimensional"]
+    },
+    {
+      "id": "trimm2012visualizing",
+      "title": "Visualizing student histories using clustering and composition",
+      "year": 3,
+      "categories": ["temporal visualization","chart visualization","selection","instructor","exploration","high-dimensional"]
+    },
+    {
+      "id": "topirceanu2017decision",
+      "title": "Decision tree learning used for the classification of student archetypes in online courses",
+      "year": 3,
+      "categories": ["network visualization","high-dimensional"]
+    }
+  ]

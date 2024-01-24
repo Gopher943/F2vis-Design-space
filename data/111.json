@@ -1,0 +1,301 @@
+[
+  {
+    "type": "category",
+    "title": "INITIAL VISUALIZATION STATE",
+    "description": "INITIAL VISUALIZATION STATE",
+    "childrenDescription": "INITIAL VISUALIZATION STATE:",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "network visualization",
+        "description": "Network Visualization",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/NV.svg\" ></span>",
+        "bgc":"rgba(241, 151, 144, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "text visualization",
+        "description": "Text Visualization",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/TeV.svg\" ></span>",
+        "bgc":"rgba(241, 151, 144, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "temporal visualization",
+        "description": "Temporal Visualization",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/TV.svg\" ></span>",
+        "bgc":"rgba(241, 151, 144, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "geographic visualization",
+        "description": "Geographic Visualization",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/GeoV.svg\" ></span>",
+        "bgc":"rgba(241, 151, 144, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "chart visualization",
+        "description": "Chart Visualization",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/CV.svg\" ></span>",
+        "bgc":"rgba(241, 151, 144, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "glyph visualization",
+        "description": "Glyph Visualization",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/GV.svg\" ></span>",
+        "bgc":"rgba(241, 151, 144, 0.3)"
+      }
+    ]
+  },
+  {
+    "type": "category",
+    "title": "INTERACTIVE METHODS",
+    "description": "INTERACTIVE METHODS",
+    "childrenDescription": "Interaction methods:",
+    "entries": [
+      {
+        "type": "category-entry",
+        "title": "selection",
+        "description": "Selection&Exploration",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/S&E.svg\" ></span>",
+        "bgc":"rgba(102, 193, 140, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "filtering",
+        "description": "Filtering&Navigation",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/F&N.svg\" ></span>",
+        "bgc":"rgba(102, 193, 140, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "connection",
+        "description": "Connection&Saving",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/C&S.svg\" ></span>",
+        "bgc":"rgba(102, 193, 140, 0.3)"
+      },
+      {
+        "type": "category-entry",
+        "title": "encoding",
+        "description": "Encoding&Reconfiguration",
+        "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/E&R.svg\" ></span>",
+        "bgc":"rgba(102, 193, 140, 0.3)"
+      }
+    ]
+  },  
+  {
+      "type": "category",
+      "title": "GRAPHICAL OBJECT",
+      "description": "GRAPHICAL OBJECT",
+      "childrenDescription": "GRAPHICAL OBJECT:",
+      "entries": [
+        {
+          "type": "category-entry",
+          "title": "learner",
+          "description": "Learner",
+          "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/L.svg\" ></span>",
+          "bgc":"rgba(147, 181, 207, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "instructor",
+          "description": "Instructor",
+          "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/I.svg\" ></span>",
+          "bgc":"rgba(147, 181, 207, 0.3)"
+        },
+        {
+          "type": "category-entry",
+          "title": "administrator",
+          "description": "Administrator",
+          "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/A.svg\" ></span>",
+          "bgc":"rgba(147, 181, 207, 0.3)"
+        }
+      ]
+    },
+    {
+        "type": "category",
+        "title": "GEOMETRIC POSE",
+        "description": "GEOMETRIC POSE",
+        "childrenDescription": "GEOMETRIC POSE:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "behaviour",
+            "description": "Behaviour Analysis",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/BA.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "prediction",
+            "description": "Behaviour Prediction",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/BP.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "exploration",
+            "description": "Learning Pattern Exploration",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/LPE.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "assisted",
+            "description": "Assisted Learning",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/AL.svg\" ></span>",
+            "bgc":"rgba(188, 132, 168, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "VIRTUAL OBJECT",
+        "description": "VIRTUAL OBJECT",
+        "childrenDescription": "VIRTUAL OBJECT:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "FUNCTION",
+        "description": "FUNCTION",
+        "childrenDescription": "FUNCTION:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "FINITENESS",
+        "description": "FINITENESS",
+        "childrenDescription": "FINITENESS:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "PERSISTENCE",
+        "description": "PERSISTENCE",
+        "childrenDescription": "PERSISTENCE:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "VARIABLE DAMPING",
+        "description": "VARIABLE DAMPING",
+        "childrenDescription": "VARIABLE DAMPING:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "FIXED DAMPING",
+        "description": "FIXED DAMPING",
+        "childrenDescription": "FIXED DAMPING:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          },
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "INDEPENDENT DAMPING",
+        "description": "INDEPENDENT DAMPING",
+        "childrenDescription": "INDEPENDENT DAMPING:",
+        "entries": [
+          {
+            "type": "category-entry",
+            "title": "network",
+            "description": "Network",
+            "content": "<span class=\"content-entry-icon\"><img id='image' src =\"img/N.svg\" ></span>",
+            "bgc":"rgba(255, 153, 0, 0.3)"
+          }
+        ]
+      }
+   
+  ]
