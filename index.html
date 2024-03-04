@@ -8,7 +8,7 @@
 	<meta name="description" content="Towards a Better Understanding of the Role of Visualization in Online Learning: a Review">
 	<meta name="author" content="Gopher">
 
-	<title>OL4VIS Survey</title>
+	<title>F2VIS DESIGN SPACE</title>
 	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
 	<!-- Optional Bootstrap theme (for fancy look) -->
@@ -44,6 +44,9 @@
 					</div>
 					<div>
 						<ul class="nav navbar-nav">
+							<li>
+								<a href="#" data-toggle="modal" data-target="#scatterModal3">Workshop</a>
+							</li>
 							<!-- <li>
 								<a href="#" data-toggle="modal" data-target="#summaryTableModal">Summary</a>
 							</li> -->
@@ -78,6 +81,8 @@
 				</ul>
 			</div> -->
 			<!--/.nav-collapse -->
+
+
 		</div>
 	</div>
 
@@ -207,6 +212,43 @@
 			</div><!-- /.modal-content -->
 		</div><!-- /.modal-dialog -->
 	</div><!-- /.modal -->
+
+	<div
+        id="scatterModal3"
+        class="modal fade"
+        tabindex="-1"
+        role="dialog"
+        aria-labelledby="summaryTableTitle"
+        aria-hidden="true"
+        data-backdrop="static"
+>
+    <div class="modal-dialog modal-max">
+        <div class="modal-content"  id="scatter_top">
+            <div class="modal-body">
+                <button
+                        type="button"
+                        class="close"
+                        data-dismiss="modal"
+                        aria-hidden="true"
+                >
+                    &times;
+                </button>
+                <h2>scatter</h2>
+            </div>
+            <div class="con2">
+
+                <div id="contain" style="height:45em; width: 45em;" class="con1"></div>
+
+                <div id="contain2" style="height:45em; width: 45em;" class="con1"></div>
+                <div id="con3" style="height:45em; width: 45em;" class="con1"></div>
+                <div id="contain4" style="height:45em; width: 45em;" class="con1"></div>
+            </div>
+        </div>
+        <!-- /.modal-content -->
+    </div>
+    <!-- /.modal-dialog -->
+</div>
+
 	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery.cookie.js"></script>
