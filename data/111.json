@@ -151,9 +151,9 @@
     "entries": [
       {
         "type": "category",
-        "title": "Virtual object",
-        "description": "Virtual object",
-        "childrenDescription": "Virtual object: ",
+        "title": "",
+        "description": "",
+        "childrenDescription": "",
         "entries": [
           {
             "type": "category-entry",
@@ -174,9 +174,9 @@
     "entries": [
       {
         "type": "category",
-        "title": "Function",
-        "description": "Function",
-        "childrenDescription": "Function: ",
+        "title": "Variable Damping",
+        "description": "Variable Damping",
+        "childrenDescription": "Variable Damping: ",
         "entries": [
           {
             "type": "category-entry",
@@ -250,8 +250,8 @@
       {
         "type": "category",
         "title": "Variable Damping",
-        "description": "Function",
-        "childrenDescription": "Function: ",
+        "description": "Variable Damping",
+        "childrenDescription": "Variable Damping: ",
         "entries": [
           {
             "type": "category-entry",

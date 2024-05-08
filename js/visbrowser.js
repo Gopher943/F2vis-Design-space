@@ -266,7 +266,7 @@ function loadCategories(){
 		
 		incompleteCategories = [];
 		
-		stats = { description: "OL4VIS Survey", children: [] };
+		stats = { description: "F2VIS DESIGN SPACE", children: [] };
 		statsMap = {};
 		
 		var container = $("#categoriesList");
